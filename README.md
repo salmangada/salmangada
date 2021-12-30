@@ -47,15 +47,14 @@
 
 <br/>
 
-
 ## 📊 My Github Stats
-
 
 <p align="left">
     <a href="https://github.com/salmangada/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman Gada's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salmangada&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/salmangada/github-readme-stats"><img alt="Salman Gada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmangada&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/salmangada/github-readme-stats"><img alt="Salman Gada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmangada&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
 </p>
   <br/>
 
