@@ -1,6 +1,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-![Header](https://github.com/salmangada/salmangada/blob/main/images/banner.png)
+![Header](https://github.com/salmangada/salmangada/blob/master/images/banner.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salman</h1>
 
