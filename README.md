@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-# &#x270d; Repos
+<!-- # &#x270d; Repos
 
 <a href="https://github.com/salmangada/salmangada">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmangada&repo=laravel-quiz-application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -89,7 +89,7 @@
 </a>
 <a href="https://github.com/salmangada/salmangada">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmangada&repo=Spring-Boot-REST-CRUD-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 ## Connect with me:
 <p align="left">
