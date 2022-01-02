@@ -69,11 +69,24 @@
 
 <br/>
 
+
+
 <a href="https://github.com/salmangada/github-readme-activity-graph"><img alt="Salman Gada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salmangada&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
+# &#x270d; Repos
+
+<a href="https://github.com/salmangada/salmangada">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmangada&repo=laravel-quiz-application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/salmangada/salmangada">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmangada&repo=Coronavirus-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/salmangada/salmangada">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmangada&repo=Captcha-Validator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 ## Connect with me:
 <p align="left">
 
