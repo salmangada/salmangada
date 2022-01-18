@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **salmangada199@gmail.com**
 
-- ⚡ Fun fact **I play games and and love football.**
+- ⚡ Fun fact **I play games and love football.**
 
 ## 🔧  Languages and Tools:
 
